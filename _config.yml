@@ -223,3 +223,79 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+
+## Layout Variables (https://tianqi.name/jekyll-TeXt-theme/docs/en/layouts)
+## Page Layout
+##############################
+#mode: # normal (default), immersive
+#type: # webpage (default), article
+#key: # !!str
+#lang: # en (default), zh, zh-Hans, zh-Hant
+#author: # !!map
+#show_title: # true (default), false
+#show_edit_on_github: # true, false (default)
+#show_date: # true (defalut), false
+#show_tags: # true (default), false
+#full_width: # true, false (default)
+#pageview: # true, false (default)
+#comment: # true (default), false 
+#mathjax: # true, false 
+#mathjax_autoNumber: # true, false
+#mermaid: # true, false
+#chart: # true, false
+#cover: # !!str
+#header: # false, !!map
+#  theme: # light, dark
+#  background: # !!str
+#article_header: # !!map
+#  type: # overlay, cover
+#  align: # left (default), center
+#  theme: # light (default), dark
+#  background_color: # !!str
+#  background_image: # !!map
+#    gradient: # !!str
+#    src: # !!str
+#  image: # !!map
+#    src: # !!str
+#  actions: # !!seq
+#aside: # !!map
+#  toc: # true, false
+#sidebar: # !!map
+#footer: # false
+#lightbox: # true, false
+
+
+## Articles Layout
+##############################
+#articles: # !map
+#  data_source: # !!str
+#  type: # item, brief, grid
+#  size: # md, sm
+#  article_type: # BlogPosting
+#  show_cover: # true (default), false
+#  cover_size: # lg, md, sm
+#  show_excerpt: # true, false (default)
+#  excerpt_type: # text, html
+#  show_readmore: # true, false (default)
+#  show_info: # true, false (default)
+
+
+## Home Layout
+##############################
+#None
+
+
+## Archive Layout
+##############################
+#None
+
+
+## Landing Layout
+##############################
+#data: !!map
+
+
+## 404 Layout
+##############################
+#None
