@@ -23,7 +23,7 @@ baseurl : "" # does not include hostname
 title   : Concepts
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
-
+remote_theme: kitian616/jekyll-text-theme
 
 ## => Language and Timezone
 ##############################
